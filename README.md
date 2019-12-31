@@ -2,4 +2,6 @@
 
 Gráfico feito com canvas
 
+<kbd>![grafico](cubegraph.png)</kbd>
+
 https://shuantsu.github.io/cubetimes
